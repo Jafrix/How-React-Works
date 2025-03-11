@@ -1,5 +1,5 @@
 # How React Works
 
-Typical tasks and situation in React library
-Also some theoretical issues
-Questions and pitfalls in difficult tasks
+1. Typical tasks and situation in React library
+2. Also some theoretical issues
+3. Questions and pitfalls in difficult tasks
